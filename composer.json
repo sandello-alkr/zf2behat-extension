@@ -17,7 +17,7 @@
         
     "require": {
         "php":">=5.3.3",
-        behat/behat":"~3.0,>=3.0.4",
+        "behat/behat":"~3.0,>=3.0.4",
 	"zendframework/zendframework":">=2.1.0"
     },
     "require-dev": {
